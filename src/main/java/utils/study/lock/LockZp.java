@@ -6,7 +6,7 @@ package utils.study.lock;
  */
 public class LockZp {
     public static void main(String[] args) {
-
+        System.out.println("idea 升级2020版本");
     }
 
 }
