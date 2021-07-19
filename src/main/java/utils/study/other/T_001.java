@@ -10,6 +10,7 @@ public class T_001 {
     public static void main(String[] args) {
         ZpClass zpClass = new ZpClass();
         System.out.println(ClassLayout.parseInstance(zpClass).toPrintable());
+
     }
     static class ZpClass {
         boolean b;
